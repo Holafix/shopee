@@ -48,7 +48,7 @@ const Footer = () => {
                 </li>
               </a>
               <a
-                href="https://github.com/holafix"
+                href="https://github.com/Holafix"
                 target="_blank"
                 rel="noreferrer"
               >
